@@ -10,7 +10,6 @@ public class ReviewController {
     public String getMessage()
     {
         return "Hello World";
-
         
     }
 }
